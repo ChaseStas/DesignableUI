@@ -1,5 +1,15 @@
 # DesignableUI
 
+## Installation
+
+Download Sources/DesignableUI folder to your project manually
+
+or
+
+Use Swift Package Manager to add dependency to your project. But IBDesignable classed not from the project not going to build in Interface Builder
+
+# Usage
+
 Helpful UI extension for Interface builder.
 
 1. DesignableView
